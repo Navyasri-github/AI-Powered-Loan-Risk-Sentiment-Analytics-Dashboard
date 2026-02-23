@@ -1,0 +1,11 @@
+Review_ID,Customer_ID,Review_Text,Review_Date
+1,101,"Great service, fast approval",2025-01-15
+2,102,"Loan took too long to process",2025-01-20
+3,103,"Very satisfied with loan support",2025-01-25
+4,104,"Customer service was okay",2025-02-05
+5,105,"Not happy with the interest rate",2025-02-10
+6,106,"Quick approval, excellent experience",2025-02-15
+7,107,"Confusing documentation process",2025-03-01
+8,108,"Helpful staff but slow process",2025-03-05
+9,109,"Very professional and fast",2025-03-10
+10,110,"Interest rates are too high",2025-03-15

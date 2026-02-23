@@ -1,0 +1,11 @@
+Loan_ID,Customer_ID,Income,Credit_Score,Loan_Amount,Employment_Status,Default_Status,Risk_Level
+1,101,55000,680,5000,Full-Time,No,Medium Risk
+2,102,40000,590,10000,Part-Time,Yes,High Risk
+3,103,75000,720,15000,Full-Time,No,Low Risk
+4,104,60000,650,7000,Full-Time,No,Medium Risk
+5,105,30000,580,12000,Part-Time,Yes,High Risk
+6,106,80000,730,20000,Full-Time,No,Low Risk
+7,107,45000,620,6000,Full-Time,No,Medium Risk
+8,108,50000,610,8000,Part-Time,Yes,High Risk
+9,109,90000,750,25000,Full-Time,No,Low Risk
+10,110,40000,600,7000,Part-Time,Yes,High Risk

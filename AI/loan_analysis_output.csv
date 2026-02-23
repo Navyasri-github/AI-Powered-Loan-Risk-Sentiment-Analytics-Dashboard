@@ -1,0 +1,12 @@
+Loan_ID,Income,Credit_Score,Loan_Amount,Employment_Status,AI_Analysis
+1,50000,620,15000,Employed,"1. Risk Category: This loan profile falls into the ""Subprime"" risk category. 
+
+2. Why it is risky: The credit score of 620 is considered fair, which indicates that the borrower has had some credit issues in the past. Although the borrower is employed and has a reasonable income, the credit score suggests a higher risk of default.
+
+3. Recommendation: It is recommended to proceed with caution. The loan could be approved but at a higher interest rate to compensate for the risk. Alternatively, the borrower could be asked to provide a guarantor or collateral. 
+
+4. Default Probability in %: The exact default probability can vary based on various factors and models used. However, generally, a credit score of 620 could imply a default probability of around 15-20%. This is a rough estimate and should be validated with more comprehensive risk assessment tools."
+2,30000,550,12000,Self-Employed,"1. Risk Category: High Risk
+2. Why it is risky: The borrower's income is relatively low and the credit score is below average, indicating a history of poor credit management. Additionally, being self-employed may mean income is irregular and not guaranteed. The loan amount is also significant compared to the borrower's income.
+3. Recommendation: Due to the high risk associated with this loan profile, it is recommended to either decline the loan application or consider providing a smaller loan amount with a higher interest rate to mitigate potential losses. It may also be beneficial to require collateral or a co-signer for the loan.
+4. Default Probability in %: While it's difficult to assign a specific percentage without more detailed information, based on the given profile, the default probability would likely be high, potentially over 30%. However, this is a rough estimate and actual percentages may vary based on other factors not included in this profile."
